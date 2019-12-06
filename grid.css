@@ -19,6 +19,10 @@ header {
     height: 80px;
 }
 
+header h1 {
+    justify-content: flex-start;
+}
+
 header div {
     margin: 0 10px;
     color: #fff;
